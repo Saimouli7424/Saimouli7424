@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Saimouli Bandi
 - I have a 2years work experience in infosys.
-- i have a technical skills in c++,JavaScript,Angular,React,Node js,MONGO DB.
+- i have a technical skills in c++,JavaScript,Express.js,React.js,Node js,MONGO DB.
+- Improving my proficiency in Data Structures and Algorithms, Low-Level Design
 - I’m looking to collaborate on webdevelopment projects.
 
 <!---
