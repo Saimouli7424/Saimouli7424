@@ -1,6 +1,6 @@
 
 
-h1 align="center">Hi 👋, I'm @Saimouli Bandi</h1>
+<h1> align="center">Hi 👋, I'm @Saimouli Bandi</h1>
 <h3 align="center">Full-stack web developer | UI/UX enthusiast | Consistently sharpening my DSA skills | From India 🇮🇳</h3>
 <h3 align="center">I have 2 years of work experience at Infosys.</h3>
 
